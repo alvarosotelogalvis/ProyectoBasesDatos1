@@ -1,0 +1,8 @@
+//Para correr el proyecto de python este es el comando
+python manage.py runserver
+
+//Abrir en el navegador el home del sitio
+http://127.0.0.1:8000/
+
+//Visitar el administrador de django abrir
+http://127.0.0.1:8000/tasks/admin
